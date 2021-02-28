@@ -1,0 +1,10 @@
+.user-main-details {
+  width: 80%;
+}
+.user-details {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  border-right: 1px solid lightgray;
+}
